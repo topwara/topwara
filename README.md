@@ -1,5 +1,3 @@
-<br>
-
 # Hi 👋, I'm Waraporn Promnongsan
 
 <p>A backend developer from Thailand<p/>
@@ -14,29 +12,34 @@ I am a software developer with almost 3 years of experience. I currently work at
 
 ## Tech stack
 
+The black and white logo means I used it in the past. But I only know the basics.
+
 ### Programming Languages
 
 <table>
   <tr>
 
-  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
   </td>
 
   <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   </td>
 
   <td>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="filter: grayscale(100%);"/> </a>
   </td>
 
   <td>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="filter: grayscale(100%);"/> </a>
   </td>
 
   </tr>
 </table>
 
-### Frontend Development
+### Frontend Development (Medium)
 
 <table>
   <tr>
@@ -66,11 +69,15 @@ I am a software developer with almost 3 years of experience. I currently work at
   <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   </td>
 
-  <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
   </td>
 
   <td>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+  </td>
+
+  <td>
+  <a href="https://studio.apollographql.com" target="_blank" rel="noreferrer"> <img src="https://apollographql.gallerycdn.vsassets.io/extensions/apollographql/vscode-apollo/1.20.0/1697476209611/Microsoft.VisualStudio.Services.Icons.Default" alt="graphql" width="40" height="40"/> </a>
   </td>
 
   </tr>
@@ -152,16 +159,6 @@ I am a software developer with almost 3 years of experience. I currently work at
   </tr>
 </table>
 
-<hr>
-<hr>
+## Contact me
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-</p>
+🙋‍♂️
