@@ -12,7 +12,7 @@ I am a software developer with almost 3 years of experience. I currently work at
 
 ## Tech stack
 
-The black and white logo means I used it in the past. But I only know the basics.
+Note : Php and Python I used it in the past. But I only know the basics.
 
 ### Programming Languages
 
