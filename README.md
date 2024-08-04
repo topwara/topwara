@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a software developer with almost 3 years of experience. I currently work at start up software house in Pathumthani lumlukka, as a Backend developer. I have spent most of my time learning about backend and tools.
+Enthusiastic Mid-Level Backend Developer with 2 years and 5 months of experience in designing, implementing, and optimizing server-side logic. 
 
 <br>
 
