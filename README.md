@@ -6,7 +6,7 @@
 
 ## About me
 
-Enthusiastic Mid-Level Backend Developer with 2 years and 5 months of experience in designing, implementing, and optimizing server-side logic. 
+Enthusiastic Mid-Level Backend Developer with 2 years and 5 months of experience in designing, implementing, and optimizing server-side logic.
 
 <br>
 
@@ -80,6 +80,14 @@ Note : Php and Python I used it in the past. But I only know the basics.
   <a href="https://studio.apollographql.com" target="_blank" rel="noreferrer"> <img src="https://apollographql.gallerycdn.vsassets.io/extensions/apollographql/vscode-apollo/1.20.0/1697476209611/Microsoft.VisualStudio.Services.Icons.Default" alt="graphql" width="40" height="40"/> </a>
   </td>
 
+  <td>
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" alt="graphql" width="40" height="40"/> </a>
+  </td>
+
+  <td>
+  <a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/sequelize-original-icon-885x1024-r8dswyvj.png" alt="graphql" width="40" height="40"/> </a>
+  </td>
+
   </tr>
 </table>
 
@@ -112,6 +120,9 @@ Note : Php and Python I used it in the past. But I only know the basics.
   </td>
 
   <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  </td>
+
+  <td><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/17984781/231239788-419ee9b0-0211-40f9-9d0a-d192db6718bd.png" alt="docker" width="40" height="40"/> </a>
   </td>
 
   </tr>
@@ -154,6 +165,9 @@ Note : Php and Python I used it in the past. But I only know the basics.
   </td>
 
   <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  </td>
+
+  <td><a href="https://developers.line.biz/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/LINE_New_App_Icon_%282020-12%29.png" alt="linux" width="40" height="40"/> </a>
   </td>
 
   </tr>
