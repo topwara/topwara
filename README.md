@@ -6,7 +6,7 @@
 
 ## About me
 
-Enthusiastic Mid-Level Backend Developer with 2 years and 5 months of experience in designing, implementing, and optimizing server-side logic.
+Enthusiastic Backend Developer with 2 years and 5 months of experience in designing, implementing, and optimizing server-side logic.
 
 <br>
 
