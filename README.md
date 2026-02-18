@@ -6,13 +6,13 @@
 
 ## About me
 
-Enthusiastic Backend Developer with 2 years and 5 months of experience in designing, implementing, and optimizing server-side logic.
+Backend Developer 
 
 <br>
 
 ## Tech stack
 
-Note : Php and Python I used it in the past. But I only know the basics.
+Note : 
 
 ### Programming Languages
 
