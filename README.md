@@ -10,9 +10,7 @@ Backend Developer
 
 <br>
 
-## Tech stack
 
-Note : 
 
 
 
